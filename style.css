@@ -1,0 +1,24 @@
+th{
+    color:darkviolet;
+    background-color: darkgray;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+h3{
+   color: darkslateblue;
+    font-style: oblique;
+    font-family: fantasy; 
+   
+}
+
+td{
+    color:darkblue;
+    font-style:italic;
+    font-family: inherit;
+}
+
+table{
+    border-collapse: collapse;
+}
